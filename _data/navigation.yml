@@ -1,0 +1,15 @@
+# main links links
+main:
+  - title: "About me"
+    url: /
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Publications"
+    url: /pubs/
+
+  - title: "Students"
+    url: /students/
+
+
