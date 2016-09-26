@@ -6,9 +6,8 @@ header:
 sidebar:
 ---
 ## About me
-
-Possui graduação em Matemática - Licenciatura Plena pela Universidade Católica de Pelotas (1981), mestrado em Ciências da Computação pela Universidade Federal do Rio Grande do Sul (1997) e doutorado em Ciências da Computação pela Universidade Federal do Rio Grande do Sul (2002). Atualmente é professor adjunto da [Universidade Federal de Pelotas](http://www.ufpel.edu.br). Tem experiência na área de [Ciência da Computação](http://inf.ufpel.edu.br/ccomp/), sendo que as linhas de pesquisa em que atualmente está atuando são Fundamentos da Computação, Computação Científica e Processamento Paralelo e Distribuído. Os principais temas são Modelos Computacionais Paralelos e Distribuídos, Lógica Fuzzy, Matemática Intervalar, Computação Quântica e Teoria dos Domínios e Aplicações. 
-
+Renata Hax Sander Reiser received her B.Sc. degree in Mathematics from the Catolic University of Pelotas (1981), M.Sc. degree in Computer Science from the Federal University of Rio Grande do Sul (1997) and Ph.D. in Computer Science from the Federal University of Rio Grande do Sul (2002).
+  At present, she is an Associate Professor in the Federal University of Pelotas, Cen-tre for Technological Development. Her research experience covers Foundations of Computing, Scientific Computing, and Parallel and Distributed Computing. Her main research interests include Models of Parallel and Distributive Computation, Fuzzy Logic, Interval Mathematics, Quantum Computing, Domain Theory, and their applications.
 
 ## Address
 
